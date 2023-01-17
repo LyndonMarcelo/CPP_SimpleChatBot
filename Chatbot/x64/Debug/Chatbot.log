@@ -1,0 +1,7 @@
+﻿  CETChatbot.cpp
+  CETChatbotMain.cpp
+  ChatbotHowTo.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  CETChatbot.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Chatbot.vcxproj -> C:\Users\lance\Desktop\New folder (3)\GROUP5_ISKOBOT_APPLICATION_ASSIGNMENT_2_ARTIFICIAL_INTELLIGENCE\Chatbot\x64\Debug\Chatbot.exe

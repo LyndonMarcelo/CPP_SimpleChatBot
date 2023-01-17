@@ -1,0 +1,7 @@
+C:\Users\lance\Desktop\CHATBOT\Chatbot\x64\Release\Chatbot.vcxproj.AssemblyReference.cache
+C:\Users\lance\Desktop\CHATBOT\Chatbot\x64\Release\Chatbot.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\lance\Desktop\CHATBOT\Chatbot\x64\Release\Chatbot.CETChatbotMain.resources
+C:\Users\lance\Desktop\CHATBOT\Chatbot\x64\Release\Chatbot.CETChatbot.resources
+C:\Users\lance\Desktop\CHATBOT\Chatbot\x64\Release\Chatbot.ChatbotHowTo.resources
+C:\Users\lance\Desktop\CHATBOT\Chatbot\x64\Release\Chatbot.vcxproj.GenerateResource.cache
+C:\Users\lance\Desktop\CHATBOT\Chatbot\x64\Release\Chatbot.exe

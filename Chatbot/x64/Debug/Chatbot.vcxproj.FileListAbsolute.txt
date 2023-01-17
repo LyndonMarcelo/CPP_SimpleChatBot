@@ -1,0 +1,14 @@
+C:\Users\lance\Desktop\CHATBOT\Chatbot\x64\Debug\Chatbot.vcxproj.AssemblyReference.cache
+C:\Users\lance\Desktop\CHATBOT\Chatbot\x64\Debug\Chatbot.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\lance\Desktop\CHATBOT\Chatbot\x64\Debug\Chatbot.CETChatbot.resources
+C:\Users\lance\Desktop\CHATBOT\Chatbot\x64\Debug\Chatbot.ChatbotHowTo.resources
+C:\Users\lance\Desktop\CHATBOT\Chatbot\x64\Debug\Chatbot.vcxproj.GenerateResource.cache
+C:\Users\lance\Desktop\CHATBOT\Chatbot\x64\Debug\Chatbot.exe
+C:\Users\lance\Desktop\CHATBOT\Chatbot\x64\Debug\Chatbot.CETChatbotMain.resources
+C:\Users\lance\Desktop\New folder (3)\GROUP5_ISKOBOT_APPLICATION_ASSIGNMENT_2_ARTIFICIAL_INTELLIGENCE\Chatbot\x64\Debug\Chatbot.vcxproj.AssemblyReference.cache
+C:\Users\lance\Desktop\New folder (3)\GROUP5_ISKOBOT_APPLICATION_ASSIGNMENT_2_ARTIFICIAL_INTELLIGENCE\Chatbot\x64\Debug\Chatbot.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\lance\Desktop\New folder (3)\GROUP5_ISKOBOT_APPLICATION_ASSIGNMENT_2_ARTIFICIAL_INTELLIGENCE\Chatbot\x64\Debug\Chatbot.CETChatbotMain.resources
+C:\Users\lance\Desktop\New folder (3)\GROUP5_ISKOBOT_APPLICATION_ASSIGNMENT_2_ARTIFICIAL_INTELLIGENCE\Chatbot\x64\Debug\Chatbot.CETChatbot.resources
+C:\Users\lance\Desktop\New folder (3)\GROUP5_ISKOBOT_APPLICATION_ASSIGNMENT_2_ARTIFICIAL_INTELLIGENCE\Chatbot\x64\Debug\Chatbot.ChatbotHowTo.resources
+C:\Users\lance\Desktop\New folder (3)\GROUP5_ISKOBOT_APPLICATION_ASSIGNMENT_2_ARTIFICIAL_INTELLIGENCE\Chatbot\x64\Debug\Chatbot.vcxproj.GenerateResource.cache
+C:\Users\lance\Desktop\New folder (3)\GROUP5_ISKOBOT_APPLICATION_ASSIGNMENT_2_ARTIFICIAL_INTELLIGENCE\Chatbot\x64\Debug\Chatbot.exe
